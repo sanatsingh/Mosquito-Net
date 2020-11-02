@@ -5,7 +5,7 @@ Public Repository in spirit of upcoming *World Malaria Day* - 25th April.
 
 Two models have been provided with different activation fuctions (ReLU and Mish) & fc layers.
 
-Live Model can be found at - https://malaria.zyik.ml
+Live Model can be found at - https://zyik.ml
 
 ## About Malaria
 Malaria is a mosquito-borne life-threatening disease caused by five species of Plasmodium parasites (single-celled organisms). 
